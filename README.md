@@ -1,2 +1,0 @@
-# MappingComponents
-Created with CodeSandbox
